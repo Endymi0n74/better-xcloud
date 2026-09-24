@@ -9,52 +9,54 @@
     <a href="https://github.com/redphx/better-xcloud/stargazers"><img src="https://img.shields.io/github/stars/redphx/better-xcloud?color=%23cca400" alt="Total stars" /></a>
 </div>
 
-### Improve Xbox Cloud Gaming (xCloud) experience on [xbox.com/play](https://www.xbox.com/play). It also allows you to use Remote Play on the xCloud website.  
+**🇫🇷 Français** · [🇬🇧 English](README.en.md)
+
+### Améliorez l'expérience Xbox Cloud Gaming (xCloud) sur [xbox.com/play](https://www.xbox.com/play). Cela vous permet également d'utiliser le Remote Play sur le site web de xCloud.  
 
 > [!WARNING]
-> I only provide Better xCloud on the official repos. Don't download it from anywhere else  
-> Fake websites:
+> Je ne fournis Better xCloud que sur les dépôts officiels. Ne le téléchargez nulle part ailleurs  
+> Sites frauduleux :
 >   - betterxcloud.net
 
 > [!IMPORTANT]  
-> I only accept pull requests for:
-> - Custom touch controls
-> - Bug fixes
+> Je n'accepte les pull requests que pour :
+> - Les contrôles tactiles personnalisés
+> - Les corrections de bugs
 
-**Supported platforms:**  
+**Plateformes prises en charge :**  
 - Windows
 - macOS
-- Linux, SteamOS (including Steam Deck)
-- Android, Android TV (including Meta Quest VR Headsets): [redphx/better-xcloud-android](https://github.com/redphx/better-xcloud-android)
+- Linux, SteamOS (y compris Steam Deck)
+- Android, Android TV (y compris les casques VR Meta Quest) : [redphx/better-xcloud-android](https://github.com/redphx/better-xcloud-android)
 - iOS, iPadOS
 
-This script makes me spend more time with xCloud, and I hope the same thing happens to you.  
-If you like this project please give it a 🌟. Thank you 🙏.
+Ce script me fait passer plus de temps avec xCloud, et j'espère qu'il en sera de même pour vous.  
+Si vous aimez ce projet, donnez-lui un 🌟. Merci 🙏.
 
-## How to install
-Visit the [home page](https://better-xcloud.github.io) to know how to install Better xCloud on your device.
+## Comment installer
+Visitez la [page d'accueil](https://better-xcloud.github.io) pour savoir comment installer Better xCloud sur votre appareil.
 
-## Full documentations
-- For the full details please visit: [**better-xcloud.github.io**](https://better-xcloud.github.io)  
-- [Demo video](https://youtu.be/hyp69Jrb2sQ)
+## Documentation complète
+- Pour plus de détails, veuillez visiter : [**better-xcloud.github.io**](https://better-xcloud.github.io)  
+- [Vidéo de démonstration](https://youtu.be/hyp69Jrb2sQ)
 
-⚠️ Please DO NOT report **Better xCloud**'s bugs on [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Report bugs in [Issues](https://github.com/redphx/better-xcloud/issues) or [Telegram channel](https://t.me/betterxcloud) instead.
+⚠️ Veuillez NE PAS signaler les bugs de **Better xCloud** sur [/r/xcloud subreddit](https://reddit.com/r/xcloud/). Signalez plutôt les bugs dans les [Issues](https://github.com/redphx/better-xcloud/issues) ou sur la [chaîne Telegram](https://t.me/betterxcloud).
 
-## Donation
-If you think this project is useful and want to support future developments, please consider making a donate via [my Ko-fi page](https://ko-fi.com/redphx).  
-Or you can give this project a star, that's also helpful.  
-Thank you.  
+## Don
+Si vous trouvez ce projet utile et souhaitez soutenir les développements futurs, veuillez envisager de faire un don via [ma page Ko-fi](https://ko-fi.com/redphx).  
+Ou vous pouvez mettre une étoile à ce projet, c'est aussi utile.  
+Merci.  
 
-## Translation  
-Help translating **Better xCloud** to another languagues using [Crowdin](https://crowdin.com/project/better-xcloud).  
-Use [this post](https://github.com/redphx/better-xcloud/discussions/131) for discussion. 
+## Traduction  
+Aidez à traduire **Better xCloud** dans d'autres langues grâce à [Crowdin](https://crowdin.com/project/better-xcloud).  
+Utilisez [ce message](https://github.com/redphx/better-xcloud/discussions/131) pour la discussion. 
 
-## Acknowledgements  
-- The mouse controlling feature is heavily inspired by the "Mouse spinning" feature in [Yuzu emulator](https://github.com/yuzu-emu/yuzu-mainline)
-- [n-thumann/xbox-cloud-server-selector](https://github.com/n-thumann/xbox-cloud-server-selector) for the idea of IPv6 feature
-- Icons by [Phosphor Icons](https://phosphoricons.com)
-- [PromptFont](https://shinmera.com/promptfont) by Yukari "Shinmera" Hafner
+## Remerciements  
+- La fonctionnalité de contrôle de la souris s'inspire fortement de la fonctionnalité « Mouse spinning » de l'émulateur [Yuzu](https://github.com/yuzu-emu/yuzu-mainline)
+- [n-thumann/xbox-cloud-server-selector](https://github.com/n-thumann/xbox-cloud-server-selector) pour l'idée de la fonctionnalité IPv6
+- Icônes par [Phosphor Icons](https://phosphoricons.com)
+- [PromptFont](https://shinmera.com/promptfont) par Yukari "Shinmera" Hafner
 
-## Disclaimers  
-- Use it at your own risk.
-- This project is not affiliated with Xbox in any way. All Xbox logos/icons/trademarks are copyright of their respective owners.
+## Avertissements  
+- Utilisez-le à vos propres risques.
+- Ce projet n'est affilié à Xbox d'aucune manière. Tous les logos/icônes/marques Xbox sont la propriété de leurs détenteurs respectifs.
